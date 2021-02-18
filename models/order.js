@@ -1,0 +1,6 @@
+class Order {
+
+    constructor(){
+
+    };
+};
