@@ -1,7 +1,7 @@
 const filmModel = require('../models/film');
 const filmDatabase = require('../storage/filmDb');
 
-let dataBase = new filmDatabase();
+let database = new filmDatabase();
 
 class FilmController {
 
